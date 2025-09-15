@@ -1,59 +1,132 @@
-# 👋 Hi, I'm Kushagra Maheshwari  
+<h1 align="center">Hi 👋, I'm Kushagra Maheshwari</h1>
+<h3 align="center">Full-Stack Developer • CSE’27</h3>
+<h4 align="center">Passionate about Web Development, Problem Solving, and Building Innovative Solutions 🚀</h4>
+<div align="center">
+<img src="./ayush (1).ico" alt="Kushagra Maheshwari" width="200px"/></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechMaestro-k&label=Profile%20views&color=0e75b6&style=flat" alt="TechMaestro-k" />
+</p>
 
-🚀 Passionate **Computer Science student** with a strong interest in **Algorithms, backend, and system design**. I love transforming abstract ideas into impactful solutions and diving deep into **system design** and **problem-solving**.  
-
----
-
-## 💫 About Me  <img height="auto" src="https://komarev.com/ghpvc/?username=Blazzzee&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-🔭 Currently building a **Personal Finance App**  
-👯 Looking to collaborate on **scalable backend systems** & **system design projects**  
-🌱 Exploring **advanced algorithms** & **TypeScript best practices**  
-💡 Enthusiastic about **AI, Competitive Programming, and Open Source**  
-💬 Ask me about **algorithms, DSA, and system design**  
-⚡ Fun fact: I enjoy **breaking down algorithms into real-world use cases**  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-maheshwari-7a8823296) 
-[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/maheshwari57319) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshwarikushagra2004@gmail.com)  
+- 🔭 I'm currently working on **MERN Stack Projects** and **Innovative Web Applications**
+- 🌱 I'm currently learning **Advanced React.js, Node.js, TypeScript, and Modern Web Technologies**
+- 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
+- 📫 How to reach me: **maheshwarikushagra09@gmail.com**
 
 ---
 
-## 💻 Tech Stack  
+### 💻 Web Development Projects
+<table>
+<tr>
+<td width="50%">
 
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+**🌿File-SearchEngine**
+-A file search engine in C++ using Tries, List Node and Priority Queue, used an opimized way for fast searching
+- [View Project](https://github.com/TechMaestro-k/ByteScout-FileSearchEngine)
 
-**Backend & Frameworks:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+</td>
+<td width="50%">
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+**⛓️‍💥Expense Tracker**
+- A project for keeping track of your expense and income created using MERN.
+- [View Project](https://github.com/TechMaestro-k/PennyWise-ExpenseTracker)
 
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+</td>
+</tr>
+<tr>
+<td width="50%">
+  
+**⛓️‍💥Password-Generator**
+- A simple Password generator build using basic HTML,CSS,JavaScript.
+- [View Project](https://github.com/TechMaestro-k/Password-Generator)
+</td>
+<td width="50%">
 
-**Productivity & Testing:**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)  
+**📚 BrainWave**
+-  Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles.
+- [View Project](https://github.com/TechMaestro-k/MindMesh)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=TechMaestro-k&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=TechMaestro-k&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechMaestro-k&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,postman" /
+</p>
+
+### ⚙️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,windows,npm" />
+  
+</p>
 
 ---
 
-## ✍️ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/urayushjain/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maheshwarikushagra09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Blazzzeee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Customized and maintained by Kushagra -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techMaestro-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techMaestro-k&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techMaestro-k&theme=tokyonight" alt="TechMaestro-k" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techMaestro-k&theme=tokyo-night" alt="techMaestro-k's GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🏅 Achievements & Highlights
+
+- 🎓 **Computer Science Student** - Currently pursuing B.Tech
+- 🏆 **Full Stack Developer** - MERN Stack Specialist
+- 💡 **Problem Solver** - Passionate about creating innovative solutions
+- 🌟 **Open Source Enthusiast** - Contributing to the developer community
+
+
+
+---
+
+<p align="center">
+  <i>Let's connect and chat! Open to collaborating on interesting and innovative projects.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p
