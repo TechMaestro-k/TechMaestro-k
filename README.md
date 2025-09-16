@@ -116,7 +116,7 @@
 
 - 🎓 **Computer Science Student** - Currently pursuing B.Tech
 - 🏆 **Full Stack Developer** - MERN Stack Specialist
-- 💡 **Problem Solver** - Passionate about creating innovative solutions
+- 💡 **Problem Solver** - Passionate about creating innovative solutions(1700+ rating on leetcode)
 - 🌟 **Open Source Enthusiast** - Contributing to the developer community
 
 
