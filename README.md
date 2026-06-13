@@ -12,6 +12,7 @@
   <a href="https://codolio.com/profile/Kushagra24"><img src="https://img.shields.io/badge/Codolio-2E3440?style=for-the-badge&logo=codeforces&logoColor=58A6FF" alt="Codolio"/></a>
   <a href="https://leetcode.com/u/savvysolver004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="mailto:maheshwarikushagra09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/kushagraM24"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 <p align="center">
